@@ -1,11 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-using NetConfSG.Example.App;
+﻿using NetConfSG.Example.App;
 using System.Reflection;
 
+Console.WriteLine("List of commands");
+Console.WriteLine("================");
+Console.WriteLine("");
 
-Console.WriteLine("Application Menu");
-
-// Get all types end with Command name in the current assembly using reflection
+//Get all types end with Command name in the current assembly using reflection
 //This canno't be use with AOT compilation
 //Assembly.GetExecutingAssembly().GetTypes()
 //        .Where(t=>t.Name.EndsWith("Command")).ToList()

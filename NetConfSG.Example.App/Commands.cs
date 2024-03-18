@@ -5,5 +5,4 @@
     public class HelpCommand { }
 
     public class NewCommand { }
-
 }

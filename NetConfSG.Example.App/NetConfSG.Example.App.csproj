@@ -11,11 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="CommandsFiles\MyCommand1.txt" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <AdditionalFiles Include="CommandsFiles\MyCommand1.txt" />
+    <AdditionalFiles Include="CommandsFiles\CommandList.txt" />
   </ItemGroup>
 
   <ItemGroup>
