@@ -1,3 +1,2 @@
-﻿ExtCommand1
-ExtCommand2
-ExtCommand3
+﻿MyCommand1
+MyCommand2
