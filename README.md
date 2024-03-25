@@ -1,7 +1,13 @@
-# Source Generator .NET 8
-## dotNETConf 2023 Pordenone
+# Examples of Source Generator .NET 8
+## dotNETConf
 
-Demo project used during my session at dotNETConf 2023 - 1nn0va Pordenone
+Demo project used during my session
 
-Slides: https://github.com/bortolin/NetConfSG.Example/blob/main/DotNetConf-2023-PN-SourceGenerator.pdf
+  - Rome .NET Conference 2024
+
+    Slides: https://github.com/bortolin/NetConfSG.Example/blob/main/DotNetConf-2023-PN-SourceGenerator.pdf
+
+  - dotNETConf 2023 - 1nn0va Pordenone
+
+    Slides: https://github.com/bortolin/NetConfSG.Example/blob/main/DotNetConf-2023-PN-SourceGenerator.pdf
 
